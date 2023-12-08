@@ -1,12 +1,7 @@
 # My name is Tycho, also known as Tyfcho
 I am a Smart Technology Student from the Netherlands.
 ## Currently I am busy with:
-- 💬 My internship exams
-- 💬 Programming PLCs
-- 💬 Programming in Ladder Diagrams
-- 💬 Making project reports
-- 💬 Making workflow diagrams
-- 💬 Designing 3D models for control panels
+- 💬 Learning Java
 
 ## I am interested in:
 - Themeparks
@@ -16,8 +11,7 @@ I am a Smart Technology Student from the Netherlands.
 - Content Creation
 
 ## Current projects:
-- 🔭 Wireless control for conveyor belts
-- 🔭 Project reports for exams
+- 🔭 Developing a custom (private) Minecraft plugin
 - 🔭 Content creation for my Twitch and YouTube channels
 - 🔭 Maintaining a Discord Community
 
