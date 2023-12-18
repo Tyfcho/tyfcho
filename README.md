@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Java, ST, C#, C++**
 
-- 📝 I also stream sometimes! [twitch.tv/tyfcho](twitch.tv/tyfcho)
+- 📝 I also stream sometimes! [twitch.tv/tyfcho](https://twitch.tv/tyfcho)
 
-- 📄 YouTube too! [youtube.com/@tyfcho](youtube.com/@tyfcho)
+- 📄 YouTube too! [youtube.com/@tyfcho](https://youtube.com/@tyfcho)
 
 - 💬 Ask me about **Java, ST, LAD, C#**
 
