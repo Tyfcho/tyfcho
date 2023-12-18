@@ -1,5 +1,5 @@
 # My name is Tycho, also known as Tyfcho
-I am a Smart Technology Student from the Netherlands.
+I am a Smart Technology Engineer from the Netherlands.
 ## Currently I am busy with:
 - 💬 Learning Java
 
