@@ -11,11 +11,11 @@
 
 - 📝 I also stream sometimes! [twitch.tv/tyfcho](twitch.tv/tyfcho)
 
+- 📄 YouTube too! [youtube.com/@tyfcho](youtube.com/@tyfcho)
+
 - 💬 Ask me about **Java, ST, LAD, C#**
 
 - 📫 How to reach me **Discord: Tyfcho**
-
-- 📄 YouTube too! [youtube.com/@tyfcho](youtube.com/@tyfcho)
 
 - ⚡ Fun fact **I don't code that often xD**
 
