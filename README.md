@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tyfcho" target="blank"><img src="https://img.shields.io/twitter/follow/tyfcho?logo=twitter&style=for-the-badge" alt="tyfcho" /></a> </p>
 
-- 🔭 I’m currently working on ** multiple Minecraft servers with custom plugins**
+- 🔭 I’m currently working on **multiple Minecraft servers with custom plugins**
 
 - 🌱 I’m currently learning **Java, Kotlin, C++**
 
