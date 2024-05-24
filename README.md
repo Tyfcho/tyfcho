@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/tyfcho" target="blank"><img src="https://img.shields.io/twitter/follow/tyfcho?logo=twitter&style=for-the-badge" alt="tyfcho" /></a> </p>
 
-- 🔭 I’m currently working on **A Minecraft server with custom plugins**
+- 🔭 I’m currently working on ** multiple Minecraft servers with custom plugins**
 
-- 🌱 I’m currently learning **Java, ST, C#, C++**
+- 🌱 I’m currently learning **Java, Kotlin, C++**
 
 - 📝 I also stream sometimes! [twitch.tv/tyfcho](https://twitch.tv/tyfcho)
 
@@ -17,12 +17,13 @@
 
 - 📫 How to reach me **Discord: Tyfcho**
 
-- ⚡ Fun fact **I don't code that often xD**
+- ⚡ Fun fact **I'd rather play games than coding them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tyfcho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyfcho" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tyfcho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tyfcho" height="30" width="40" /></a>
+<a href="https://twitch.tv/tyfcho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="tyfcho" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
