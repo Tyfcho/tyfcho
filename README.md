@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Discord: Tyfcho**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tycho-van-zunderd-25469a199/](https://www.linkedin.com/in/tycho-van-zunderd-25469a199/)
+- 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/tycho-van-zunderd-25469a199/)
 
 - ⚡ Fun fact **Rollercoasters go brr**
 
