@@ -13,7 +13,7 @@
 
 - 📄 YouTube too! [youtube.com/@tyfcho](https://youtube.com/@tyfcho)
 
-- 💬 Ask me about **Java, ST, LAD**
+- 💬 Ask me about **Java, TCEngineer, ST and LAD**
 
 - 📫 How to reach me **Discord: Tyfcho**
 
