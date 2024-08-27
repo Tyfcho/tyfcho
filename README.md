@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, TCEngineer, ST and LAD**
 
-- 📫 How to reach me **Discord: Tyfcho**
+- 📫 You can reach out to me on **Discord: Tyfcho**
 
 - 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/tycho-van-zunderd-25469a199/)
 
