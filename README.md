@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **multiple custom Java plugins**
 
-- - 🌱 I’m currently learning **Java, Kotlin, C++**
+- 🌱 I’m currently learning **Java, Kotlin, C++**
 
 - 📝 I also stream sometimes! [twitch.tv/tyfcho](twitch.tv/tyfcho)
 
