@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tyfcho" target="blank"><img src="https://img.shields.io/twitter/follow/tyfcho?logo=twitter&style=for-the-badge" alt="tyfcho" /></a> </p>
 
-- 🔭 I’m currently working on **multiple custom Java plugins**
+- 🔭 I’m currently working on **a custom Kotlin plugin for Paper**
 
 - 🌱 I’m currently learning **Java, Kotlin, C++**
 
@@ -18,8 +18,6 @@
 - 📫 You can reach out to me on **Discord: Tyfcho**
 
 - 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/tycho-van-zunderd-25469a199/)
-
-- ⚡ Fun fact **Rollercoasters go brr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
