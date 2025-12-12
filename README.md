@@ -2,7 +2,7 @@
 
 ###
 
-<h3>Feel free to check out my portfolio <a href="https://tyfcho.github.io/">here</a></h3>
+<h3 align="center">Feel free to check out my portfolio <a href="https://tyfcho.github.io/">here</a></h3>
 
 ###
 
